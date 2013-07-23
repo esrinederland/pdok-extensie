@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDOK4ArcGISSetup", "PDOK4ArcGISSetup\PDOK4ArcGISSetup.vdproj", "{7F0A5E96-E626-4E51-82AD-C114503CADDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CswClientPDOK", "CswClient\CswClientPDOK.csproj", "{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDOK4ArcMap", "PDOK Extensie voor ArcMap\PDOK4ArcMap.csproj", "{43BA2469-5FAA-4400-8493-4985C6D243D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeESRIRegAsm", "InvokeESRIRegAsm\InvokeESRIRegAsm.csproj", "{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Debug|Any CPU.ActiveCfg = Debug
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Debug|x86.ActiveCfg = Debug
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Release|Any CPU.ActiveCfg = Release
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Release|Any CPU.Build.0 = Release
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Release|x86.ActiveCfg = Release
+		{7F0A5E96-E626-4E51-82AD-C114503CADDF}.Release|x86.Build.0 = Release
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Debug|x86.ActiveCfg = Debug|x86
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Debug|x86.Build.0 = Debug|x86
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Release|x86.ActiveCfg = Release|x86
+		{F3D05B12-5F2F-489B-A634-3B3BD44F85A2}.Release|x86.Build.0 = Release|x86
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Debug|x86.ActiveCfg = Debug|x86
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Debug|x86.Build.0 = Debug|x86
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Release|x86.ActiveCfg = Release|x86
+		{43BA2469-5FAA-4400-8493-4985C6D243D7}.Release|x86.Build.0 = Release|x86
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E8A9B9-3DAC-4734-9961-D8C67AD5C817}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
